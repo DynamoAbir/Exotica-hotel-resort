@@ -1,0 +1,11 @@
+.welcome {
+    margin-top: 20px;
+    font-size: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #e88660;
+}
+
+.five-star {
+    letter-spacing: 7px;
+    color: #717171;
+}
